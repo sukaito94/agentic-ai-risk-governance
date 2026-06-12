@@ -56,7 +56,7 @@ agentic-ai-risk-governance/
 
 ## Slides
 
-[View presentation slides](./slides/Risk and Governance Analysis of Open-Source AI Agent Deployment.pdf)
+[View presentation slides](./slides/Risk%20and%20Governance%20Analysis%20of%20Open-Source%20AI%20Agent%20Deployment.pdf)
 
 ## Core Argument
 
