@@ -102,9 +102,9 @@ Together, these perspectives form an integrated framework for assessing and gove
 
 ## Author
 
-**許穎軒**
-Department of Physics
-National Central University
+- **Author:** 許穎軒
+- **Department:** Department of Physics
+- **Institution:** National Central University
 
 ---
 
