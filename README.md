@@ -132,6 +132,12 @@ This repository is an independent educational and analytical report. It does not
 
 ---
 
+## AI-Assisted Visual Content Disclosure
+
+Some visual elements in this presentation may have been created or refined with the assistance of generative AI tools. All AI-assisted visuals were reviewed, selected, and edited by the author for educational and presentation purposes.
+
+---
+
 ## License
 
-All rights reserved unless otherwise stated.
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
