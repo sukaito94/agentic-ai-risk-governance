@@ -56,13 +56,7 @@ agentic-ai-risk-governance/
 
 ## Slides
 
-The main presentation file is located at:
-
-```text
-slides/risk-governance-open-source-ai-agent-deployment.pdf
-```
-
----
+[View presentation slides](./slides/risk-governance-open-source-ai-agent-deployment.pdf)
 
 ## Core Argument
 
@@ -118,13 +112,7 @@ This report was prepared as part of a technical presentation for **Google Develo
 
 The report references materials from OWASP, arXiv papers on AI agents and tool use, OpenAI, Anthropic, and LangChain documentation.
 
-For the full reference list, see:
-
-```text
-references.md
-```
-
----
+[View full references](./references.md)
 
 ## Disclaimer
 
